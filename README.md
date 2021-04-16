@@ -1,2 +1,2 @@
 # FlipCard
-The simple flash card example, written on html ans css
+The simple flash card, written on html ans css
